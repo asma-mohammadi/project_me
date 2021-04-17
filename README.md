@@ -1,2 +1,2 @@
-<h1> Hospital management </h3>
+<h1> Hospital management </h6>
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
